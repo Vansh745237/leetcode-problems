@@ -33,9 +33,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Vansh745237/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vansh745237/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vansh745237/leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Vansh745237/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0040-combination-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
