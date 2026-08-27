@@ -4,8 +4,6 @@ public:
         int n = word1.size();
         int m = word2.size();
 
-        // next[i] = maximum number of characters of word2
-        // that can be matched starting from word1[i]
         vector<int> next(n + 1, 0);
 
         int j = m - 1;
@@ -21,10 +19,7 @@ public:
         bool changed = false;
 
         for (int i = 0; i < m; i++) {
-            // Try exact match first
             while (pos < n && word1[pos] != word2[i]) {
-                // We can change this character if we haven't used
-                // our one allowed modification.
                 if (!changed && pos + 1 <= n &&
                     next[pos + 1] >= m - i - 1) {
                     ans.push_back(pos);
