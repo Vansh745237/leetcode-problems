@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vansh745237/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Vansh745237/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vansh745237/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vansh745237/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vansh745237/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
