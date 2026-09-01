@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vansh745237/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Vansh745237/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/Vansh745237/leetcode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Vansh745237/leetcode-problems/tree/master/0093-restore-ip-addresses) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vansh745237/leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
