@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Vansh745237/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vansh745237/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Vansh745237/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vansh745237/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vansh745237/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vansh745237/leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
