@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vansh745237/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vansh745237/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vansh745237/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vansh745237/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vansh745237/leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
