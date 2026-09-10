@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Vansh745237/leetcode-problems/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Vansh745237/leetcode-problems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Vansh745237/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vansh745237/leetcode-problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vansh745237/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Vansh745237/leetcode-problems/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Vansh745237/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Vansh745237/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh745237/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vansh745237/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Vansh745237/leetcode-problems/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vansh745237/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -214,7 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh745237/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Vansh745237/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Vansh745237/leetcode-problems/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vansh745237/leetcode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vansh745237/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
