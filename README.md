@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vansh745237/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vansh745237/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vansh745237/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vansh745237/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vansh745237/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vansh745237/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -162,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vansh745237/leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vansh745237/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vansh745237/leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -225,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vansh745237/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
