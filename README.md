@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vansh745237/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh745237/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vansh745237/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vansh745237/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vansh745237/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Vansh745237/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Vansh745237/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vansh745237/leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vansh745237/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vansh745237/leetcode-problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vansh745237/leetcode-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
