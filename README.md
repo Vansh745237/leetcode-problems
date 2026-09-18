@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Vansh745237/leetcode-problems/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Vansh745237/leetcode-problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Vansh745237/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
+| [0836-rectangle-overlap](https://github.com/Vansh745237/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vansh745237/leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Vansh745237/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Vansh745237/leetcode-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
