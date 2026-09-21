@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/Vansh745237/leetcode-problems/tree/master/0086-partition-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vansh745237/leetcode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Vansh745237/leetcode-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Vansh745237/leetcode-problems/tree/master/0086-partition-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vansh745237/leetcode-problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
