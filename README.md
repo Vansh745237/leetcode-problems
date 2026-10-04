@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Vansh745237/leetcode-problems/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Vansh745237/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Vansh745237/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Vansh745237/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Vansh745237/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh745237/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Vansh745237/leetcode-problems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vansh745237/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Vansh745237/leetcode-problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Vansh745237/leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Vansh745237/leetcode-problems/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Vansh745237/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh745237/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vansh745237/leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Vansh745237/leetcode-problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh745237/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Vansh745237/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Union-Find
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Vansh745237/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
