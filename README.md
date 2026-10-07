@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Vansh745237/leetcode-problems/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Vansh745237/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Vansh745237/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vansh745237/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Vansh745237/leetcode-problems/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Vansh745237/leetcode-problems/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Vansh745237/leetcode-problems/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Vansh745237/leetcode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vansh745237/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
