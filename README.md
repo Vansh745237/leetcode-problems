@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vansh745237/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Vansh745237/leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/Vansh745237/leetcode-problems/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Vansh745237/leetcode-problems/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/Vansh745237/leetcode-problems/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Vansh745237/leetcode-problems/tree/master/0835-image-overlap) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vansh745237/leetcode-problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vansh745237/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vansh745237/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Vansh745237/leetcode-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Vansh745237/leetcode-problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Vansh745237/leetcode-problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Vansh745237/leetcode-problems/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Vansh745237/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Vansh745237/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Vansh745237/leetcode-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Vansh745237/leetcode-problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Vansh745237/leetcode-problems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Vansh745237/leetcode-problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Vansh745237/leetcode-problems/tree/master/0093-restore-ip-addresses) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vansh745237/leetcode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vansh745237/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vansh745237/leetcode-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vansh745237/leetcode-problems/tree/master/0110-balanced-binary-tree) |
